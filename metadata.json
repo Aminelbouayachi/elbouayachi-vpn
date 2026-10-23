@@ -1,0 +1,6 @@
+{
+  "name": "Elbouayachi VPN - Moroccan High-Speed Tunnel & Proxy",
+  "description": "تطبيق Elbouayachi VPN الاحترافي لشبكات النفق السريع والسيرفرات (V2Ray, SSH, VMess) المخصصة للشبكات المغربية مع أدوات فحص السرعة ومشاركة الإنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
